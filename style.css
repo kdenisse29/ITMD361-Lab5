@@ -33,3 +33,11 @@ h2 {
   font-weight: bold;
   border: 1px solid black;
 }
+th {
+  font-family: 'Lato' , sans-serif;  
+  background-color: rgba(106,105,105,0.8);
+  border: 1px solid black;
+  font-size: 15px;
+  height: 60px;
+  text-align: center;
+}
