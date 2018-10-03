@@ -3,3 +3,12 @@ body {
   background-size: cover;
   image-rendering: auto;
 }
+table {
+  width: 77%;
+  height: 300px;
+  border: .7px black;
+  border-collapse: collapse;
+  font-family: 'Roboto';
+  margin-left: auto;
+  margin-right: auto;
+}
