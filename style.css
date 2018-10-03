@@ -1,20 +1,5 @@
 body {
-  background-image: url('images/milky-way-galaxy.jpg');
-  background-size: cover;
-  image-rendering: auto;
+    background-image: url("Images/milky-way-galaxy.jpg");
+    background-size: cover;
 }
-h1 {
-  font-family: 'Roboto';
-  color: #FFFFFF;
-  font-size: 3.5em;
-  text-align: center;
-  }
-.planet {
-  font-family: 'Lato', sans-serif; 
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 20px;
-  font-weight: bold;
-  border: 1px solid black;
-}
-  
+
