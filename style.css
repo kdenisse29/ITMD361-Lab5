@@ -1,0 +1,5 @@
+body {
+  background-image: url('images/milky-way-galaxy.jpg');
+  background-size: cover;
+  image-rendering: auto;
+}
