@@ -41,3 +41,12 @@ th {
   height: 60px;
   text-align: center;
 }
+td {
+  font-family: 'Lato' , sans-serif;
+  background-color: rgba(112,128,144,0.8);
+  border: 1px solid black;
+  font-size: 17px;
+  color: black;
+  font-weight: normal;
+  text-align: center;
+}
